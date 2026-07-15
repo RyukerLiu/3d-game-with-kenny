@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Controls: WASD or arrow keys to move, Shift to boost, E to pick up/install/launch, Esc to pause, and R to restart after any state.
+Controls: WASD or arrow keys to move, Shift to boost, E to pick up/install/launch, Esc to pause, and R to restart after any state. Boost builds heat, locks at 100, and becomes available again after cooling below 18.
 
 ## Verification
 
